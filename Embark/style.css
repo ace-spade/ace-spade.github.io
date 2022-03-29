@@ -1,5 +1,5 @@
-@font-face {  font-family: Asap; src: url('Asap.ttf');}
-@font-face {font-family: Open; src: url('Open.ttf');}
+@font-face {  font-family: Asap; src: url('Asap.ttf') format("truetype");}
+@font-face {font-family: Open; src: url('Open.ttf') format("truetype");}
 body{
   background-color: #f6edda;
   margin:0px;
